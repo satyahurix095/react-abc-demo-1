@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Hello Satya,Let the games begin!</h1>
+      <h1>Welcome Master Wayne</h1>
     </>
   )
 }
